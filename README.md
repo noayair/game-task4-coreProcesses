@@ -1,6 +1,6 @@
 # The core process of 7 Boom!
 In this task we made a core proccss of our original game called "7 BOOM".
-your mission is to slip the red balloons and catch the blue ones.
+Your mission is to avoid the red balloons and catch the blue ones.
 Every blue balloon you catch give you 1 point. But if you hit the red balloon you lose life!
 
 ![WhatsApp Image 2020-11-16 at 16 39 55](https://user-images.githubusercontent.com/57709369/99265720-ab250680-282a-11eb-95ca-7703f13f83ee.jpeg)
