@@ -10,7 +10,7 @@ Every blue balloon you catch give you 1 point. But if you hit the red balloon yo
  
  https://github.com/Noa-Amit/game-task4-coreProcesses/blob/main/Assets/Scripts/ScoreField.cs
  
- 2. Then we made a spawner called "BalloonSpawner" that spawns balloons.It's have a rigidbody and collider.And it's have a script that spwans balloons in a randomlt timing.
+ 2. Then we made a prefab spawner called "BalloonSpawner" that spawns balloons.It's have a rigidbody and collider.And it's have a script that spwans balloons in a randomlt timing.
  
  https://github.com/Noa-Amit/game-task4-coreProcesses/blob/main/Assets/Scripts/TimedSpawner.cs
  
